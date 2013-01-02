@@ -1,0 +1,9 @@
+name: Index
+test: Simple.test_simple
+script: Index.py
+nodes: 9
+email: john@8t8.eu
+cycles: 10:20:30:100
+duration:120
+deps:
+    - PyBrowserID
